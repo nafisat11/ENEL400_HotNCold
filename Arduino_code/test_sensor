@@ -1,0 +1,9 @@
+#include <Wire.h>
+#define thermal_sensor 0x0A
+
+
+void setup() {
+}
+
+void loop() {
+}
